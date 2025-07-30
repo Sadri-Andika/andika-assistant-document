@@ -1,0 +1,15 @@
+{
+  "default": "light",
+  "themes": [
+    {
+      "identifier": "light",
+      "interfaceStyle": "light",
+      "displayName": "Light"
+    },
+    {
+      "identifier": "dark",
+      "interfaceStyle": "dark",
+      "displayName": "Dark"
+    }
+  ]
+}
